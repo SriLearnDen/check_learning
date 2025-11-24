@@ -3,3 +3,4 @@ pull
 push
 log
 remote
+check for pull in VS
